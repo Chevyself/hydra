@@ -1,0 +1,19 @@
+{
+  "id": 129849384,
+  "code": 200,
+  "at": "2019-01-01T00:00:00Z",
+  "type": "request|response",
+  "path": "/users/1",
+  "headers": {
+    "token": "Some token"
+  },
+  "metadata": {
+    "client": "node|java"
+  },
+  "error": {
+    "message": "Some error message",
+  },
+  "body": {
+    // Response object
+  }
+}
